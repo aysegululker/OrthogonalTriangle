@@ -1,0 +1,7 @@
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\OrthogonalTriangle\OrthogonalTriangle\bin\Debug\OrthogonalTriangle.exe.config
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\OrthogonalTriangle\OrthogonalTriangle\bin\Debug\OrthogonalTriangle.exe
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\OrthogonalTriangle\OrthogonalTriangle\bin\Debug\OrthogonalTriangle.pdb
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\OrthogonalTriangle\OrthogonalTriangle\obj\Debug\OrthogonalTriangle.csproj.AssemblyReference.cache
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\OrthogonalTriangle\OrthogonalTriangle\obj\Debug\OrthogonalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\OrthogonalTriangle\OrthogonalTriangle\obj\Debug\OrthogonalTriangle.exe
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\OrthogonalTriangle\OrthogonalTriangle\obj\Debug\OrthogonalTriangle.pdb
