@@ -1,0 +1,7 @@
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\TriangleConsoleApp\obj\Debug\TriangleConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\TriangleConsoleApp\obj\Debug\TriangleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\TriangleConsoleApp\bin\Debug\TriangleConsoleApp.exe.config
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\TriangleConsoleApp\bin\Debug\TriangleConsoleApp.exe
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\TriangleConsoleApp\bin\Debug\TriangleConsoleApp.pdb
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\TriangleConsoleApp\obj\Debug\TriangleConsoleApp.exe
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Yazilim_Calismalari\OrthogonalTriangle\TriangleConsoleApp\obj\Debug\TriangleConsoleApp.pdb
